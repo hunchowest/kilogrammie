@@ -83,6 +83,7 @@ Want to know more about me? [Check out my portfolio.](https://kilogrammy.com/)
 > <p>{Am a physician and buetisian who have discoveries on beauty formulas}</p>
 
 _Contact me on mail [Tim.adurah@gmail.com]_
+<br>
 _Contact me on Linkedin [https://www.linkedin.com/in/tim-adurah/]_
 
 click the follow button to show Like to me!
