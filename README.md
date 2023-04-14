@@ -80,7 +80,7 @@ Want to know more about me? [Check out my portfolio.](https://kilogrammy.com/)
 
 > {daily life style}
 >
-> <p>{Am a physician and buetisian who have discoveries on beauty formulas}</p>
+> <p>{Am a physician and project scienctist}</p>
 
 _Contact me on mail [Tim.adurah@gmail.com]_
 <br>
